@@ -19,7 +19,7 @@ This is a project to develop a machine learning model capable of predicting stoc
 
 ## Project Structure
 
-1. **Notebooks**: This folder contains Jupyter notebooks used for data analysis, data preprocessing, model training, and evaluation.
+1. [Notebooks](https://github.com/frzkstudio/ML_Forecasting_Predict_Stock_Prices/blob/main/Source%20Code%20-Stock%20Prices%20Prediction.ipynb): This folder contains Jupyter notebooks used for data analysis, data preprocessing, model training, and evaluation.
 
-2. **Presentation**: This folder contains the PowerPoint presentation summarizing the project's goals, methodologies, and results.
+2. [Presentation](presentation.pdf): This folder contains the PowerPoint presentation summarizing the project's goals, methodologies, and results.
 
